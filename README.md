@@ -14,7 +14,7 @@
   * 
   * 
 ## 2. Resumen
-  # CAPÍTULO 1: <p align=center> Tema 1
+  # CAPÍTULO 1: <p align=center> Ley de OHM
 ## <p align=center> 3.4 Cálculo de resistencia
 ![Cálculo de resistencia](https://user-images.githubusercontent.com/93786746/141857093-683916a0-c6a5-487d-a939-7769f8c4438b.png)
 
