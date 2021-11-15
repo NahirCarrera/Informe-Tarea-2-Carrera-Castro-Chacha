@@ -28,6 +28,9 @@
 
 
   # CAPÍTULO 4: <p align=center> Energía y Potencia
+## <p align=center> 4.1 Energía y potencia
+![Energía y potencia](https://user-images.githubusercontent.com/93786746/141865931-7a89b302-4434-4eae-8171-3dd4416be7ec.png)
+  
 ## <p align=center> 4.2 - 4.3 Potencia
 ![7-8](https://user-images.githubusercontent.com/93829962/141863822-6c0fe2fa-f62f-4620-9b3b-2e009c146c69.jpeg)
 ## <p align=center> 4.4 Conversión de energía y caída de voltaje en una resistencia
