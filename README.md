@@ -7,3 +7,28 @@
 * Castro Chugchilan Paúl Enrique
 * Chacha Chacha Kevin Alejandro
 ## 1. Objetivos
+  ### General: 
+  * 
+  ### Específicos
+  * 
+  * 
+  * 
+## 2. Resumen
+  # CAPÍTULO 1: <p align=center> Tema 1
+
+
+  # CAPÍTULO 2: <p align=center> Tema 2
+
+## 3. Explicación y resolución de ejercicios
+  ### Explicación
+  
+  ### Capítulo 1 - Ejercicios
+  
+  ### Capítulo 2 - Ejercicios
+  
+
+## 4. Video
+ 
+## 5. Conclusiones
+
+## 6. Bibliografía
