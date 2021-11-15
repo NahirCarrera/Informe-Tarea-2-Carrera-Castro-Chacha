@@ -14,15 +14,21 @@
   * 
   * 
 ## 2. Resumen
-  # CAPÍTULO 1: <p align=center> Ley de OHM
+  # CAPÍTULO 3: <p align=center> Ley de OHM
 ## <p align=center> 3.4 Cálculo de resistencia
 ![Cálculo de resistencia](https://user-images.githubusercontent.com/93786746/141857575-201a1fda-1c33-463f-9423-5fc757f19495.png)
 ## <p align=center> 3.5 Introducción a localización de errores
 ![Localización de errores](https://user-images.githubusercontent.com/93786746/141862615-b7b53b1d-c20a-4c68-a25e-ed0e1163d493.png)
 
 
-  # CAPÍTULO 2: <p align=center> Tema 2
-
+  # CAPÍTULO 4: <p align=center> Energía y Potencia
+## <p align=center> 4.2 - 4.3 Potencia
+![7-8](https://user-images.githubusercontent.com/93829962/141863822-6c0fe2fa-f62f-4620-9b3b-2e009c146c69.jpeg)
+## <p align=center> 4.4 Conversión de energía y caída de voltaje en una resistencia
+![9](https://user-images.githubusercontent.com/93829962/141863952-9d3f5d9f-1453-445c-bd88-942ee4022658.jpeg)
+## <p align=center> 4.5 Fuentes de potencia 
+![10](https://user-images.githubusercontent.com/93829962/141863986-7649c2c8-3a87-42ec-a62d-d77b2162acc6.jpeg)
+  
 ## 3. Explicación y resolución de ejercicios
   ### Explicación
   
