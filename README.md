@@ -17,7 +17,7 @@
   # CAPÍTULO 1: <p align=center> Ley de OHM
 ## <p align=center> 3.4 Cálculo de resistencia
 ![Cálculo de resistencia](https://user-images.githubusercontent.com/93786746/141857575-201a1fda-1c33-463f-9423-5fc757f19495.png)
-## <p align=center> 3.4 Introducción a localización de errores
+## <p align=center> 3.5 Introducción a localización de errores
 ![Localización de errores](https://user-images.githubusercontent.com/93786746/141862615-b7b53b1d-c20a-4c68-a25e-ed0e1163d493.png)
 
 
