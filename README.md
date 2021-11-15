@@ -15,7 +15,13 @@
   * 
 ## 2. Resumen
   # CAPÍTULO 3: <p align=center> Ley de OHM
-## <p align=center> 3.4 Cálculo de resistencia
+## <p align=center> 3.1 La Relación de Corriente, Voltaje y Resistencia
+![Relación V, C y R](https://user-images.githubusercontent.com/93829976/141864827-fc3d5976-7860-47a8-bb6e-6dc41f4be089.jpeg)
+## <p align=center> 3.2 Cálculo de la Corriente
+![Cálculo de corriente](https://user-images.githubusercontent.com/93829976/141864855-7b0fe035-adf9-46da-af80-9f3c9aae8c63.jpeg)
+## <p align=center> 3.3 Cálculo del Voltaje 
+![Cálculo del Voltaje](https://user-images.githubusercontent.com/93829976/141864876-fe617f76-f296-4a58-9451-f166abe25fea.jpeg)
+## <p align=center> 3.4 Cálculo de la Resistencia
 ![Cálculo de resistencia](https://user-images.githubusercontent.com/93786746/141857575-201a1fda-1c33-463f-9423-5fc757f19495.png)
 ## <p align=center> 3.5 Introducción a localización de errores
 ![Localización de errores](https://user-images.githubusercontent.com/93786746/141862615-b7b53b1d-c20a-4c68-a25e-ed0e1163d493.png)
