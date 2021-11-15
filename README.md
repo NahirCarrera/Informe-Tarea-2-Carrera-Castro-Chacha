@@ -15,7 +15,8 @@
   * 
 ## 2. Resumen
   # CAPÍTULO 1: <p align=center> Tema 1
-
+## <p align=center> Cálculo de resistencia
+![Cálculo de resistencia](https://user-images.githubusercontent.com/93786746/141857093-683916a0-c6a5-487d-a939-7769f8c4438b.png)
 
   # CAPÍTULO 2: <p align=center> Tema 2
 
