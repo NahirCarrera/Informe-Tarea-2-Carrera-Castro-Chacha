@@ -11,7 +11,7 @@
   * Analizar el contenido presente en los capítulos 3 y 4 pertenecientes al libro Principios de Circuitos Eléctricos utilizando esquemas y mapas que posteriormente servirán para la resolución de los ejercicios previamente indicados
   ### Específicos
   * 
-  * 
+  * Resumir el tema energía, potencia y fuente de potencia a través de mapas mentales y conceptuales para su implementación en prácticas teóricas
   * 
 ## 2. Resumen
   # CAPÍTULO 3: <p align=center> Ley de OHM
