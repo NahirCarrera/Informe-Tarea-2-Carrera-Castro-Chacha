@@ -8,7 +8,7 @@
 * Chacha Chacha Kevin Alejandro
 ## 1. Objetivos
   ### General: 
-  * 
+  * Analizar el contenido presente en los capítulos 3 y 4 pertenecientes al libro Principios de Circuitos Eléctricos utilizando esquemas y mapas que posteriormente servirán para la resolución de los ejercicios previamente indicados
   ### Específicos
   * 
   * 
