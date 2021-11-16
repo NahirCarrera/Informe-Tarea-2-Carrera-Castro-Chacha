@@ -10,9 +10,9 @@
   ### General: 
   * Analizar el contenido presente en los capítulos 3 y 4 pertenecientes al libro Principios de Circuitos Eléctricos utilizando esquemas y mapas que posteriormente servirán para la resolución de los ejercicios previamente indicados
   ### Específicos
-  * 
+  * Estudiar la relación que existe entre la corriente, voltaje y resistencia haciendo uso de la Ley de Ohm para comprender dicho tema y conocer acerca de sus aplicaciones en la localización de fallas 
   * Resumir el tema energía, potencia y fuente de potencia a través de mapas mentales y conceptuales para su implementación en prácticas teóricas
-  * 
+  * Aplicar conocimientos adquiridos durante el análisis y elaboración de organizadores gráficos de los capítulos 3 y 4 con la finalidad de resolver los ejercicios planteados de forma satisfactoria
 ## 2. Resumen
   # CAPÍTULO 3: <p align=center> Ley de OHM
 ## <p align=center> 3.1 La Relación de Corriente, Voltaje y Resistencia
