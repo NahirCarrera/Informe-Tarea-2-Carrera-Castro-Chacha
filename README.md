@@ -51,3 +51,4 @@
 ## 5. Conclusiones
 
 ## 6. Bibliografía
+  * Floyd, T. (2007). _Principios De Circuitos Eléctricos_. Octava edición. México. Pearson Education.
