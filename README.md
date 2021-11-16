@@ -43,6 +43,11 @@
   ### Capítulo 3 - Ejercicios
 ![Ejercicio 1](https://user-images.githubusercontent.com/93829976/141876904-8eaeeaec-4fad-41dd-969c-2fcf21da568a.JPG)
 ![Ejercicio 3-5](https://user-images.githubusercontent.com/93829976/141876920-22506acd-eab0-4dfe-85b3-13a0073f3951.JPG)
+![image](https://user-images.githubusercontent.com/93786746/141879379-76d1f461-fed5-4743-8158-f718110e11b3.png)
+![image](https://user-images.githubusercontent.com/93786746/141879469-a18b6b1f-c87e-4a0d-bd5c-fa4ee33e81cb.png)
+![image](https://user-images.githubusercontent.com/93786746/141879491-17d281e0-e185-478d-949f-561761b3bf8c.png)
+![image](https://user-images.githubusercontent.com/93786746/141879534-dfa1a692-6f5b-461c-894d-710e143a1b63.png)
+
 ![Cap 3 (25-31)](https://user-images.githubusercontent.com/93829962/141873178-d9856687-ddc6-4d3a-80ec-6e5fceaca238.JPG)
 ![Cap 3 (33-35)](https://user-images.githubusercontent.com/93829962/141873205-a160278c-9096-4bf3-95af-959d7090a060.JPG)
   ### Capítulo 4 - Ejercicios
