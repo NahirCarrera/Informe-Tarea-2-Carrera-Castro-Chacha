@@ -30,7 +30,6 @@
   # CAPÍTULO 4: <p align=center> Energía y Potencia
 ## <p align=center> 4.1 Energía y potencia
 ![Energía y potencia](https://user-images.githubusercontent.com/93786746/141865931-7a89b302-4434-4eae-8171-3dd4416be7ec.png)
-  
 ## <p align=center> 4.2 - 4.3 Potencia
 ![7-8](https://user-images.githubusercontent.com/93829962/141863822-6c0fe2fa-f62f-4620-9b3b-2e009c146c69.jpeg)
 ## <p align=center> 4.4 Conversión de energía y caída de voltaje en una resistencia
@@ -41,10 +40,11 @@
 ## 3. Explicación y resolución de ejercicios
   ### Explicación
   
-  ### Capítulo 1 - Ejercicios
-  
-  ### Capítulo 2 - Ejercicios
-  
+  ### Capítulo 3 - Ejercicios
+![Cap 3 (25-31)](https://user-images.githubusercontent.com/93829962/141873178-d9856687-ddc6-4d3a-80ec-6e5fceaca238.JPG)
+![Cap 3 (33-35)](https://user-images.githubusercontent.com/93829962/141873205-a160278c-9096-4bf3-95af-959d7090a060.JPG)
+  ### Capítulo 4 - Ejercicios
+![Cap 4 (13-23)](https://user-images.githubusercontent.com/93829962/141873214-b8366442-fdc1-49b5-9c94-dee4984b460b.JPG)
 
 ## 4. Video
  
