@@ -52,10 +52,11 @@
 ![Cap 3 (33-35)](https://user-images.githubusercontent.com/93829962/141873205-a160278c-9096-4bf3-95af-959d7090a060.JPG)
   ### Capítulo 4 - Ejercicios
 ![Ejercicio 1-5](https://user-images.githubusercontent.com/93829976/141876942-f8ced617-f323-483a-9063-39bf4f98fc9c.JPG)
+![Cap 4 (13-23)](https://user-images.githubusercontent.com/93829962/141873214-b8366442-fdc1-49b5-9c94-dee4984b460b.JPG)
 ![image](https://user-images.githubusercontent.com/93786746/141879663-5d0b22ea-a472-40cb-aae0-ae2aef331bfa.png)
 ![image](https://user-images.githubusercontent.com/93786746/141879703-183c0b50-0b06-426e-9594-9a3ffaf443e0.png)
 
-![Cap 4 (13-23)](https://user-images.githubusercontent.com/93829962/141873214-b8366442-fdc1-49b5-9c94-dee4984b460b.JPG)
+
 
 ## 4. Video
  
