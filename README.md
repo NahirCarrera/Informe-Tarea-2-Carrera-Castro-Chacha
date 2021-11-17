@@ -50,6 +50,8 @@
 
 ![Cap 3 (25-31)](https://user-images.githubusercontent.com/93829962/141873178-d9856687-ddc6-4d3a-80ec-6e5fceaca238.JPG)
 ![Cap 3 (33-35)](https://user-images.githubusercontent.com/93829962/141873205-a160278c-9096-4bf3-95af-959d7090a060.JPG)
+![image](https://user-images.githubusercontent.com/93786746/142293125-445d8f6c-07d0-462d-b2dd-ab7c95f1be93.png)
+
   ### Capítulo 4 - Ejercicios
 ![Ejercicio 1-5](https://user-images.githubusercontent.com/93829976/141876942-f8ced617-f323-483a-9063-39bf4f98fc9c.JPG)
 ![Cap 4 (13-23)](https://user-images.githubusercontent.com/93829962/141873214-b8366442-fdc1-49b5-9c94-dee4984b460b.JPG)
