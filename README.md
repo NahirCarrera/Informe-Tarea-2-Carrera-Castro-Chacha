@@ -43,6 +43,9 @@
   ### Capítulo 3 - Ejercicios
 ![Ejercicio 1](https://user-images.githubusercontent.com/93829976/141876904-8eaeeaec-4fad-41dd-969c-2fcf21da568a.JPG)
 ![Ejercicio 3-5](https://user-images.githubusercontent.com/93829976/141876920-22506acd-eab0-4dfe-85b3-13a0073f3951.JPG)
+![Ejercicio 7](https://user-images.githubusercontent.com/93829976/142295387-3fc3cee9-c798-467b-9437-b23e386ac338.JPG)
+![Ejercicio 9](https://user-images.githubusercontent.com/93829976/142295399-ee71c875-e77d-4a90-9b73-f6c4150129ab.JPG)
+![Ejercicio 11 Cap 3](https://user-images.githubusercontent.com/93829976/142295410-99cd3f70-69e7-4072-b3cb-1d8e5a029008.JPG)
 ![image](https://user-images.githubusercontent.com/93786746/141879379-76d1f461-fed5-4743-8158-f718110e11b3.png)
 ![image](https://user-images.githubusercontent.com/93786746/141879469-a18b6b1f-c87e-4a0d-bd5c-fa4ee33e81cb.png)
 ![image](https://user-images.githubusercontent.com/93786746/141879491-17d281e0-e185-478d-949f-561761b3bf8c.png)
@@ -54,6 +57,8 @@
 
   ### Capítulo 4 - Ejercicios
 ![Ejercicio 1-5](https://user-images.githubusercontent.com/93829976/141876942-f8ced617-f323-483a-9063-39bf4f98fc9c.JPG)
+![Ejercicio 7-9](https://user-images.githubusercontent.com/93829976/142295609-fb8797ee-4ba9-41be-b1f7-95f4acef5ee9.JPG)
+![Ejercicio 11 Cap 4](https://user-images.githubusercontent.com/93829976/142295624-4d5e766c-4267-405c-8d84-b67930edc573.JPG)
 ![Cap 4 (13-23)](https://user-images.githubusercontent.com/93829962/141873214-b8366442-fdc1-49b5-9c94-dee4984b460b.JPG)
 ![image](https://user-images.githubusercontent.com/93786746/141879663-5d0b22ea-a472-40cb-aae0-ae2aef331bfa.png)
 ![image](https://user-images.githubusercontent.com/93786746/142290439-503d799f-bd41-48e7-89e9-2a6f89852979.png) 
