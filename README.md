@@ -69,8 +69,7 @@
 ## 4. Video
  
 ## 5. Conclusiones
-  *
-  *
+  *Finalmente, es importante conocer los conceptos de energía y potencia, los cuales funcionan como conjunto para realizar trabajos y sobre como se los hace. La potencia en circuitos eléctricos es un sub producto que se da por la corriente que pasa por una resistencia generando calor. Cada vez que la corriente pasa por una resistencia, se da una reducción de energía, lo que también se conoce como caída de voltaje. Por último, se encuentran las fuentes de voltaje que se encargan de producir voltaje y suministrar corriente a través de la carga.
   *
 ## 6. Bibliografía
   * Floyd, T. (2007). _Principios De Circuitos Eléctricos_. Octava edición. México. Pearson Education.
